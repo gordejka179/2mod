@@ -8,6 +8,8 @@
 using namespace std;
 
 
+//и тут тоже коммент
+
 vector<int> bfs(int s, int n, vector<vector<int>> g) {
     queue<int> q;
     q.push(s);
