@@ -4,7 +4,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+//скучно
 vector<long long> getDeviders(long long x) {
     vector<long long> result;
     for (long long i = 1; i * i <= x; i++) {
